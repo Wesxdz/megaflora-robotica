@@ -6,7 +6,7 @@
 
 Problems with existing agricultural robotics
 * Proprietary (despite dependence on open source software like Linux, OpenCV, ArduPilot, Python, etc). There are a couple of exceptions such as FarmBot and Twisted Fields
-* Designed for monocropping: highly profitable and productive in the short term, but generates negative externalities
+* Designed for monocropping: highly profitable and productive in the short term, but generates negative externalities and unsustainable in a world of [energy descent](https://www.youtube.com/watch?v=uqwWdranB5A)
 * Inflicts mechanised death to pests and weeds instead of ecosystem symbiosis or whole systems thinking (a [paperclip maximizer](https://www.lesswrong.com/tag/paperclip-maximizer) [autonomous weapon system](https://en.wikipedia.org/wiki/Lethal_autonomous_weapon) that kills [Animalia](https://en.wikipedia.org/wiki/Animal))
 * Thinking of human beings as cost sinks leads to [tendency of the rate of profit to fall](https://en.wikipedia.org/wiki/Tendency_of_the_rate_of_profit_to_fall).
 
